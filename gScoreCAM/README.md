@@ -1,0 +1,2 @@
+- gScoreCAM Paper: [paper link](https://openaccess.thecvf.com/content/ACCV2022/papers/Chen_gScoreCAM_What_objects_is_CLIP_looking_at_ACCV_2022_paper.pdf)
+- gScoreCAM code: [code link](https://github.com/anguyen8/gScoreCAM/)
